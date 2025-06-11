@@ -4,6 +4,8 @@
  * @return {number[]}
  */
 
+//ONLY WORK WITH SORTED ARR
+
 var numbers = [2, 7, 11, 15]
 var target = 9
 var twoSum = function (numbers, target) {
